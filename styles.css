@@ -1,0 +1,86 @@
+header{
+    background-color: rgb(0,255,255, 0.5
+    );
+    height: 100px;
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid purple;
+  }
+  
+  h1{
+    font-family: raleway, serif;
+    font-weight: 400;
+    font-size: 3rem;
+    text-align: center;
+    padding: 0px auto;
+  }
+
+  h2,
+  p{
+    font-family: quicksand, serif;
+    font-weight: 600;
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+  }
+ 
+  
+  table{
+    table-layout: fixed;
+    width: 80%;
+    border-collapse: collapse;
+    border: 2px solid purple;
+    font-family: raleway, serif;
+    font-weight: 500;
+    text-align: justify;
+    color:rgb(6, 7, 7);
+    margin: 0 auto;
+
+    )
+  }
+  thead th:nth-child(1) {
+    width: 20%;
+  }
+  
+  thead th:nth-child(2) {
+    width: 20%;
+  }
+  
+  thead th:nth-child(3) {
+    width: 60%;  
+  }
+
+  thead{
+    background-color: rgba(208, 178, 236, 0.7);
+  }
+  
+  tbody tr:nth-child(odd) {
+    background-color: rgba(48, 232, 232, 0.6);
+  }
+  
+  tbody tr:nth-child(even) {
+    background-color: rgba(227, 221, 234, 0.6);
+  }
+  
+  .heading{
+    border:1px solid purple;
+    text-align: left;
+  }
+  
+  th,
+  td{
+    padding: 10px;
+  }
+  
+  body{
+    background: url(techdrawing2.png);
+  }
+  
+  tfoot{
+    border: 1px solid purple;
+    background-color: rgba(180, 133, 223, 0.5);
+  }
+  
+  
+  
+  
